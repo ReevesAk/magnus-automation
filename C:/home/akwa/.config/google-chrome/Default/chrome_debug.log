@@ -1,0 +1,9 @@
+[18349:18349:1108/185145.469427:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[18308:18308:1108/185155.178887:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: http://magnus.jalaacademy.com/Content/fonts/glyphicons-halflings-regular.woff2", source: http://magnus.jalaacademy.com/Account/Login (0)
+[18308:18308:1108/185155.308298:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: http://magnus.jalaacademy.com/Account/Login (0)
+[18308:18334:1108/185155.400164:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[18308:18334:1108/185155.400220:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+[18308:18334:1108/185155.400247:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[18308:18334:1108/185157.407257:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+[18351:18354:1108/185159.221816:WARNING:sqlite_persistent_store_backend_base.cc(172)] Failed to post task from LoadNelPoliciesAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_reporting_and_nel_store.cc:1355 to client_task_runner_.
+[18308:18308:1108/185159.551636:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
